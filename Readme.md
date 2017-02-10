@@ -19,6 +19,15 @@ app.get('/', function (req, res) {
 app.listen(3000)
 ```
 
+## Dependencies
+
+```
+* libuv 1.3+
+* OpenSSL 1.0.x
+* zlib 1.x
+* CMake 3.x
+```
+
 ## Installation
 
 ```bash
